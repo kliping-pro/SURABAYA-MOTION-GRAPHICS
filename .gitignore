@@ -1,0 +1,31 @@
+# Render & hasil kerja (dibuat ulang oleh script)
+parts/
+audit/
+*.mp4
+*.wav
+*.ass
+*.srt
+contact_*.jpg
+preview_*
+poster_*.jpg
+scenes.txt
+*.log
+**/stills/
+**/out/
+**/__pycache__/
+
+# Aset lokal klien — TIDAK masuk repo (lihat docs/KETENTUAN.md §Aset)
+brand/
+ref/
+
+# Data besar yang diambil ulang oleh script
+sat/imagery/*.jpg
+sat/imagery/*.tif
+whitemodel/data/
+
+# Lingkungan
+vendor/
+.venv-geo/
+node_modules/
+.DS_Store
+map/brand

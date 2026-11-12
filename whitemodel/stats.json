@@ -1,0 +1,10 @@
+{
+ "buildings_in_plate": 2053,
+ "buildings_read": 32767,
+ "plate_m": 840.0,
+ "building_height_m": 6.0,
+ "tugu_height_m": 41.15,
+ "flutes": 10,
+ "segments": 11,
+ "source": "Google Open Buildings v3 (CC BY 4.0), confidence >= 0.70"
+}

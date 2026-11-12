@@ -1,0 +1,7 @@
+rasterio
+pyproj
+numpy
+scipy
+pillow
+mgrs
+s2sphere

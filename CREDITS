@@ -1,0 +1,22 @@
+Explore Surabaya · Kampus Kita Seluas Kota — third-party assets and their licences
+
+Imagery
+- Contains modified Copernicus Sentinel data 2024 (Sentinel-2 L2A, true colour, 2024-07-16 and 2024-08-12), via the AWS Open Data registry (sentinel-cogs). Free and open (Copernicus Sentinel data terms).
+
+Data
+- Google Open Buildings v3 footprints (Surabaya, around Tugu Pahlawan), used under CC BY 4.0. https://sites.research.google/open-buildings/
+
+Logos (supplied by the client for this film; kept locally in brand/, not in this repository)
+- Universitas Terbuka, LPPM Universitas Terbuka, SENMASTER.
+
+Fonts (SIL Open Font License 1.1, files and licence texts in each part's fonts/ folder)
+- Inter, Inter Italic · IBM Plex Mono · Barlow Condensed · Caveat · Reenie Beanie · Jost · Big Shoulders · Outfit · Overpass · Fredoka · Cormorant Garamond · Noto Serif SC (subset)
+
+Code
+- Lemo-Opuscar library (MIT, LICENSES/LEMO-OPUSCAR-MIT.txt): render pipeline core/, and the demo engines of
+  styles/transit-map, urban-sketch, iso-infographic, tilt-shift, silkscreen-poster, lowpoly-island, paper-lantern, copied and adapted.
+- three.js (MIT), loaded from the library's node_modules.
+
+Sound
+- All music and effects synthesised for this film (no samples).
+- Narration in this version: a scratch voice made with eSpeak NG (GPL-3.0, the program; its output is not covered), to be replaced by a recorded voice.
